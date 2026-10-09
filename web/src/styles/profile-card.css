@@ -6,25 +6,24 @@
    ========================================================= */
 
 :root {
-  /* Kept: other components still read these */
-  --chain-primary: #4da2ff;
-  --chain-primary-rgb: 77, 162, 255;
-  --card: #131318;
-  --card-2: #0e0e13;
-  --text: #f4f4f4;
-  --muted: rgba(255, 255, 255, 0.62);
-  --border: rgba(255, 255, 255, 0.08);
-
-  /* Card palette */
-  --mp-red: #c8102e;
-  --mp-red-rgb: 200, 16, 46;
-  --mp-red-deep: #8e0b20;
-  --mp-red-dark: #6f0817;
-  --mp-ink: #1d1416;
-  --mp-ink-soft: rgba(29, 20, 22, 0.66);
-  --mp-paper: #ffffff;
-  --mp-paper-tint: #fbf3f4;
-  --blue: var(--mp-red); /* legacy accent name now maps to school red */
+    /* Kept: other components still read these */
+    --chain-primary: #4da2ff;
+    --chain-primary-rgb: 77, 162, 255;
+    --card: #131318;
+    --card-2: #0e0e13;
+    --text: #f4f4f4;
+    --muted: rgba(255, 255, 255, 0.62);
+    --border: rgba(255, 255, 255, 0.08);
+    /* Card palette */
+    --mp-red: #0a2a7a;
+    --mp-red-rgb: 200, 16, 46;
+    --mp-red-deep: #8e0b20;
+    --mp-red-dark: #6f0817;
+    --mp-ink: #1d1416;
+    --mp-ink-soft: rgba(29, 20, 22, 0.66);
+    --mp-paper: #ffffff;
+    --mp-paper-tint: #fbf3f4;
+    --blue: var(--mp-red); /* legacy accent name now maps to school red */
 }
 
 /* =========================================================
